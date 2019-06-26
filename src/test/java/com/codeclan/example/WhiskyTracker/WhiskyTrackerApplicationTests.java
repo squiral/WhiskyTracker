@@ -13,4 +13,9 @@ public class WhiskyTrackerApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void hi() {
+
+	}
+
 }

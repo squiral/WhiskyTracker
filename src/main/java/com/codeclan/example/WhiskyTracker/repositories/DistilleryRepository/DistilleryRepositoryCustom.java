@@ -8,4 +8,6 @@ import java.util.List;
 public interface DistilleryRepositoryCustom {
 
     List<Distillery> findDistilleriesThatHaveWhiskiesAged(int age);
+
+    List<Distillery> findDistilleriesThatHaveWhiskiesAges(int age);
 }
